@@ -1,0 +1,16 @@
+{
+  "name": "business-council",
+  "owner": {
+    "name": "Hamina Samimo"
+  },
+  "metadata": {
+    "description": "Business idea council: scout candidates, then judge them with independent Believer, Sceptic and Investor seats and a Judge."
+  },
+  "plugins": [
+    {
+      "name": "business-council",
+      "source": "./",
+      "description": "Scout business ideas, then judge each one with an independent Believer, Sceptic and Investor and a final Judge."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "business-council",
+  "version": "1.0.0",
+  "description": "A four-seat council (Believer, Sceptic, Investor, Judge) that scouts and stress-tests business ideas. The first three seats run as independent subagents so they cannot anchor on each other; only the Judge sees everything.",
+  "author": {
+    "name": "Hamina Samimo"
+  },
+  "repository": "https://github.com/Lettiiii/business-council",
+  "license": "MIT",
+  "keywords": ["business", "startup", "ideas", "validation", "solopreneur", "subagents", "decision-making"]
+}
